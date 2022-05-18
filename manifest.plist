@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>items</key>
-	<array>
-		<dict>
-			<key>assets</key>
-			<array>
-				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://github.com/little-weakduck/dyy-weixin/releases/download/V1.0.0/8.0.16.ipa</string>
-				</dict>
-			</array>
-			<key>metadata</key>
-			<dict>
-				<key>bundle-identifier</key>
-				<string>com.*****EN.****</string>
-				<key>bundle-version</key>
-				<string>0.1</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>title</key>
-				<string>应用名称</string>
-			</dict>
-		</dict>
-	</array>
-</dict>
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>https://bj29.cn-beijing.data.alicloudccp.com/uk3k9vpy%2F837969%2F62851931269b94672b514b8194aedf2451fafea2%2F62851931f7500e5bb02a44bbb4b74a798c34fbde?di=bj29&dr=837969&f=62851931269b94672b514b8194aedf2451fafea2&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27123213.ipa&u=acddc25aa8404a08bd67ddeeefeae6c7&x-oss-access-key-id=LTAI5t8sJLSvMtxoes9pGyTv&x-oss-additional-headers=referer&x-oss-expires=1652904434&x-oss-signature=B6LfqrtW5t5QvyCMVRAl1cb6DWMi9bB1b1U%2FnUSWy7k%3D&x-oss-signature-version=OSS2</string>
+                    </dict>
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>com.*****EN.****</string>
+                    <key>bundle-version</key>
+                    <string>0.1</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>应用名称</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
 </plist>
 
