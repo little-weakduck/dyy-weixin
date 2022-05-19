@@ -11,19 +11,19 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://bj29.cn-beijing.data.alicloudccp.com/uk3k9vpy%2F837969%2F62851931269b94672b514b8194aedf2451fafea2%2F62851931f7500e5bb02a44bbb4b74a798c34fbde?di=bj29&dr=837969&f=62851931269b94672b514b8194aedf2451fafea2&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27123213.ipa&u=acddc25aa8404a08bd67ddeeefeae6c7&x-oss-access-key-id=LTAI5t8sJLSvMtxoes9pGyTv&x-oss-additional-headers=referer&x-oss-expires=1652904434&x-oss-signature=B6LfqrtW5t5QvyCMVRAl1cb6DWMi9bB1b1U%2FnUSWy7k%3D&x-oss-signature-version=OSS2</string>
+                        <string>https://wss-1259372845.cos.ap-chengdu.myqcloud.com/uv2lsk7%2F8%2Fcp%2F8cpeuv2lsk7?response-content-disposition=attachment%3B+filename%3D%22微信_8.0.16.ipa%22%3B+filename%2A%3Dutf-8%27%27%25E5%25BE%25AE%25E4%25BF%25A1_8.0.16.ipa&sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKID96nJdhhWHm11lGpUSBpIVTBesra5EUp0%26q-sign-time%3D1652954986%3B1652956786%26q-key-time%3D1652954986%3B1652956786%26q-header-list%3D%26q-url-param-list%3Dresponse-content-disposition%26q-signature%3D4bb4a9daf9dbeb39fdebac1fcdb00db6764bfe41</string>
                     </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.*****EN.****</string>
+                    <string>com.tencent.xin.8MJ6AX2M9M</string>
                     <key>bundle-version</key>
-                    <string>0.1</string>
+                    <string>8.0.1</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>应用名称</string>
+                    <string>别下载</string>
                 </dict>
             </dict>
         </array>
